@@ -1,0 +1,12 @@
+#img2 {
+    width: 622px;
+    height: 420;
+    margin-left:80px ;
+}
+
+#img {
+    display: flex;
+    flex-direction:row;
+    justify-contment: flex-start;
+
+}
